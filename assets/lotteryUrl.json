@@ -1,0 +1,80 @@
+{
+    "prod" : {
+        "1.0" : {
+            "api_url" : "https://vd001-lottery-api-prod.caynne.com",
+            "web_url" : "https://admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [22, 24]
+        },
+        "2.0_vd001" : {
+            "api_url": "https://vd001-tiger-api.mppwr.com",
+            "web_url" : "https://vd001-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [13]
+        },
+	    "2.0_vd002" : {
+            "api_url" : "https://vd002-tiger-api.mppwr.com",
+            "web_url" : "https://vd002-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [15]
+        },
+	    "2.0_vd003" : {
+            "api_url" : "https://vd003-tiger-api.mppwr.com",
+            "web_url" : "https://vd003-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [16]
+        },
+        "2.0_vd004" : {
+            "api_url" : "https://vd004-tiger-api.mppwr.com",
+            "web_url" : "https://vd004-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [18]
+        },
+        "2.0_vd006" : {
+            "api_url" : "https://vd006-tiger-api.mppwr.com",
+            "web_url" : "https://vd006-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [19]
+        },
+        "2.0_vd007" : {
+            "api_url" : "https://vd007-tiger-api.mppwr.com",
+            "web_url" : "https://vd007-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [21]
+        },
+        "2.0_vd008" : {
+            "api_url": "https://vd008-tiger-api.mppwr.com",
+            "web_url" : "https://vd008-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [20]
+        },
+        "2.0_vd009" : {
+            "api_url" : "https://vd009-tiger-api.mppwr.com",
+            "web_url" : "https://vd009-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [23]
+        },
+        "2.0_vd010" : {
+            "api_url" : "https://vd010-tiger-api.mppwr.com",
+            "web_url" : "https://vd010-admin-lottery-prod.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [31]
+        }
+    },
+    "stg" : {
+        "stg" : {
+            "api_url" : "https://lottery-api-stg.caynne.com",
+            "web_url" : "https://admin-lottery-stg.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [87,105,109,103,115,116,117,118,108,104,110,89,90,92,93,94,95,96,97,99,100,101,114,113,112,111,119,120,121,122]
+        }
+    },
+    "uat" : {
+        "uat" : {
+            "api_url" : "https://lottery-api-uat.caynne.com",
+            "web_url" : "https://admin-lottery-uat.caynne.com",
+            "lottery_id" : 8,
+            "agentList" : [46,42,76,77,78,57,67,68,43,58,69,44,59,70,56,55,66,45,47,60,48,71,49,72,50,61,51,73,52,62,53,63,74,54,75,65,64,79]
+        }
+    }
+}
