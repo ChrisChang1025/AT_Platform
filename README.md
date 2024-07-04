@@ -11,6 +11,8 @@ reflex init --template blank
 
 ## About this Template
 
+![alt text](demo.png)
+
 This template has the following directory structure:
 
 ```bash
